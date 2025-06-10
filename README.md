@@ -25,7 +25,5 @@ Gamification is another big plus. By adding points, levels, and rewards, the app
 
 In short, an interactive quiz application makes it easier to learn, test knowledge, and stay engaged. It’s a flexible tool that brings a fresh approach to education and training by combining technology with the simple concept of quizzes.
 
-
-OUTPUT:
-
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/28619f27-2764-4906-b570-6d39028dbea3)
